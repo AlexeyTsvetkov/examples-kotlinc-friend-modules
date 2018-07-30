@@ -1,0 +1,6 @@
+Running example
+=====
+
+```
+./gradlew run
+```
